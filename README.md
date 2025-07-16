@@ -1,4 +1,5 @@
 # 🎬 Netflix Movies & TV Shows SQL Analysis
+![Database Schema Screenshot](/BrandAssets_Logos_01-Wordmark.jpg)
 
 A comprehensive SQL project analyzing Netflix Movies and TV Shows using **PostgreSQL**. This project covers business-driven data analysis questions using advanced SQL techniques.
 
